@@ -33,14 +33,18 @@ To get started with the PHP Blackjack project, follow these steps:
     You can use PHP's built-in web server to run the project locally. Run the following command:
 
     ```bash
-    php -S localhost:8000
+    php -S 0.0.0.0:8080
     ```
 
-    This will start a development server at [http://localhost:8000](http://localhost:8000).
+    This will start a development server at [http://localhost:8080](http://localhost:8080).
 
 4. **Explore the project:**
 
-    Open your web browser and navigate to [http://localhost:8000](http://localhost:8000) to play PHP Blackjack.
+    Open your web browser and navigate to [http://localhost:8080](http://localhost:8080) to use the PHP Blackjack application.
+
+## Authors
+
+- Ben Blyth - [@bbsaint590](https://github.com/bbsaint590)
 
 ## Authors
 
@@ -52,4 +56,4 @@ To get started with the PHP Blackjack project, follow these steps:
 
 ## Acknowledgements
 
-- Any libraries, tools, or individuals who contributed to the project.
+- PHP: https://www.php.net
